@@ -1,0 +1,1132 @@
+[
+  {
+    "key": "East Timor",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 500
+  },
+  {
+    "key": "Sierra Leone",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 500
+  },
+  {
+    "key": "Somalia",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 500
+  },
+  {
+    "key": "Burundi",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 600
+  },
+  {
+    "key": "Gaza Strip",
+    "region": "NEAR EAST",
+    "value": 600
+  },
+  {
+    "key": "Malawi",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 600
+  },
+  {
+    "key": "Tanzania",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 600
+  },
+  {
+    "key": "Afghanistan",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 700
+  },
+  {
+    "key": "Comoros",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 700
+  },
+  {
+    "key": "Congo, Dem. Rep.",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 700
+  },
+  {
+    "key": "Congo, Repub. of the",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 700
+  },
+  {
+    "key": "Eritrea",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 700
+  },
+  {
+    "key": "Ethiopia",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 700
+  },
+  {
+    "key": "Guinea-Bissau",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 800
+  },
+  {
+    "key": "Kiribati",
+    "region": "OCEANIA",
+    "value": 800
+  },
+  {
+    "key": "Madagascar",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 800
+  },
+  {
+    "key": "Niger",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 800
+  },
+  {
+    "key": "West Bank",
+    "region": "NEAR EAST",
+    "value": 800
+  },
+  {
+    "key": "Yemen",
+    "region": "NEAR EAST",
+    "value": 800
+  },
+  {
+    "key": "Zambia",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 800
+  },
+  {
+    "key": "Mali",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 900
+  },
+  {
+    "key": "Nigeria",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 900
+  },
+  {
+    "key": "Kenya",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1000
+  },
+  {
+    "key": "Liberia",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1000
+  },
+  {
+    "key": "Tajikistan",
+    "region": "C.W. OF IND. STATES",
+    "value": 1000
+  },
+  {
+    "key": "Benin",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1100
+  },
+  {
+    "key": "Burkina Faso",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1100
+  },
+  {
+    "key": "Central African Rep.",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1100
+  },
+  {
+    "key": "Tuvalu",
+    "region": "OCEANIA",
+    "value": 1100
+  },
+  {
+    "key": "Chad",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1200
+  },
+  {
+    "key": "Mozambique",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1200
+  },
+  {
+    "key": "Sao Tome & Principe",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1200
+  },
+  {
+    "key": "Bhutan",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 1300
+  },
+  {
+    "key": "Djibouti",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1300
+  },
+  {
+    "key": "Korea, North",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 1300
+  },
+  {
+    "key": "Rwanda",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1300
+  },
+  {
+    "key": "Cape Verde",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1400
+  },
+  {
+    "key": "Cote d'Ivoire",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1400
+  },
+  {
+    "key": "Nepal",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 1400
+  },
+  {
+    "key": "Uganda",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1400
+  },
+  {
+    "key": "Iraq",
+    "region": "NEAR EAST",
+    "value": 1500
+  },
+  {
+    "key": "Togo",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1500
+  },
+  {
+    "key": "Haiti",
+    "region": "LATIN AMER. & CARIB",
+    "value": 1600
+  },
+  {
+    "key": "Kyrgyzstan",
+    "region": "C.W. OF IND. STATES",
+    "value": 1600
+  },
+  {
+    "key": "Marshall Islands",
+    "region": "OCEANIA",
+    "value": 1600
+  },
+  {
+    "key": "Senegal",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1600
+  },
+  {
+    "key": "Gambia, The",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1700
+  },
+  {
+    "key": "Laos",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 1700
+  },
+  {
+    "key": "Solomon Islands",
+    "region": "OCEANIA",
+    "value": 1700
+  },
+  {
+    "key": "Uzbekistan",
+    "region": "C.W. OF IND. STATES",
+    "value": 1700
+  },
+  {
+    "key": "Burma",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 1800
+  },
+  {
+    "key": "Cameroon",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1800
+  },
+  {
+    "key": "Mauritania",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1800
+  },
+  {
+    "key": "Moldova",
+    "region": "C.W. OF IND. STATES",
+    "value": 1800
+  },
+  {
+    "key": "Mongolia",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 1800
+  },
+  {
+    "key": "Angola",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1900
+  },
+  {
+    "key": "Bangladesh",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 1900
+  },
+  {
+    "key": "Cambodia",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 1900
+  },
+  {
+    "key": "Sudan",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1900
+  },
+  {
+    "key": "Zimbabwe",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 1900
+  },
+  {
+    "key": "Micronesia, Fed. St.",
+    "region": "OCEANIA",
+    "value": 2000
+  },
+  {
+    "key": "Guinea",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 2100
+  },
+  {
+    "key": "Pakistan",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 2100
+  },
+  {
+    "key": "Ghana",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 2200
+  },
+  {
+    "key": "Papua New Guinea",
+    "region": "OCEANIA",
+    "value": 2200
+  },
+  {
+    "key": "Serbia",
+    "region": "EASTERN EUROPE",
+    "value": 2200
+  },
+  {
+    "key": "Tonga",
+    "region": "OCEANIA",
+    "value": 2200
+  },
+  {
+    "key": "Nicaragua",
+    "region": "LATIN AMER. & CARIB",
+    "value": 2300
+  },
+  {
+    "key": "Bolivia",
+    "region": "LATIN AMER. & CARIB",
+    "value": 2400
+  },
+  {
+    "key": "Georgia",
+    "region": "C.W. OF IND. STATES",
+    "value": 2500
+  },
+  {
+    "key": "Saint Helena",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 2500
+  },
+  {
+    "key": "Vietnam",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 2500
+  },
+  {
+    "key": "Honduras",
+    "region": "LATIN AMER. & CARIB",
+    "value": 2600
+  },
+  {
+    "key": "Mayotte",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 2600
+  },
+  {
+    "key": "Equatorial Guinea",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 2700
+  },
+  {
+    "key": "Cuba",
+    "region": "LATIN AMER. & CARIB",
+    "value": 2900
+  },
+  {
+    "key": "India",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 2900
+  },
+  {
+    "key": "Saint Vincent and the Grenadines",
+    "region": "LATIN AMER. & CARIB",
+    "value": 2900
+  },
+  {
+    "key": "Vanuatu",
+    "region": "OCEANIA",
+    "value": 2900
+  },
+  {
+    "key": "Lesotho",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 3000
+  },
+  {
+    "key": "Indonesia",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 3200
+  },
+  {
+    "key": "Ecuador",
+    "region": "LATIN AMER. & CARIB",
+    "value": 3300
+  },
+  {
+    "key": "Syria",
+    "region": "NEAR EAST",
+    "value": 3300
+  },
+  {
+    "key": "Azerbaijan",
+    "region": "C.W. OF IND. STATES",
+    "value": 3400
+  },
+  {
+    "key": "Montserrat",
+    "region": "LATIN AMER. & CARIB",
+    "value": 3400
+  },
+  {
+    "key": "Armenia",
+    "region": "C.W. OF IND. STATES",
+    "value": 3500
+  },
+  {
+    "key": "Sri Lanka",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 3700
+  },
+  {
+    "key": "Wallis and Futuna",
+    "region": "OCEANIA",
+    "value": 3700
+  },
+  {
+    "key": "Jamaica",
+    "region": "LATIN AMER. & CARIB",
+    "value": 3900
+  },
+  {
+    "key": "Maldives",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 3900
+  },
+  {
+    "key": "Egypt",
+    "region": "NORTHERN AFRICA",
+    "value": 4000
+  },
+  {
+    "key": "Guyana",
+    "region": "LATIN AMER. & CARIB",
+    "value": 4000
+  },
+  {
+    "key": "Morocco",
+    "region": "NORTHERN AFRICA",
+    "value": 4000
+  },
+  {
+    "key": "Suriname",
+    "region": "LATIN AMER. & CARIB",
+    "value": 4000
+  },
+  {
+    "key": "Guatemala",
+    "region": "LATIN AMER. & CARIB",
+    "value": 4100
+  },
+  {
+    "key": "Jordan",
+    "region": "NEAR EAST",
+    "value": 4300
+  },
+  {
+    "key": "Albania",
+    "region": "EASTERN EUROPE",
+    "value": 4500
+  },
+  {
+    "key": "Philippines",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 4600
+  },
+  {
+    "key": "Paraguay",
+    "region": "LATIN AMER. & CARIB",
+    "value": 4700
+  },
+  {
+    "key": "El Salvador",
+    "region": "LATIN AMER. & CARIB",
+    "value": 4800
+  },
+  {
+    "key": "Lebanon",
+    "region": "NEAR EAST",
+    "value": 4800
+  },
+  {
+    "key": "Venezuela",
+    "region": "LATIN AMER. & CARIB",
+    "value": 4800
+  },
+  {
+    "key": "Belize",
+    "region": "LATIN AMER. & CARIB",
+    "value": 4900
+  },
+  {
+    "key": "Swaziland",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 4900
+  },
+  {
+    "key": "China",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 5000
+  },
+  {
+    "key": "Cook Islands",
+    "region": "OCEANIA",
+    "value": 5000
+  },
+  {
+    "key": "Grenada",
+    "region": "LATIN AMER. & CARIB",
+    "value": 5000
+  },
+  {
+    "key": "Nauru",
+    "region": "OCEANIA",
+    "value": 5000
+  },
+  {
+    "key": "Peru",
+    "region": "LATIN AMER. & CARIB",
+    "value": 5100
+  },
+  {
+    "key": "Dominica",
+    "region": "LATIN AMER. & CARIB",
+    "value": 5400
+  },
+  {
+    "key": "Saint Lucia",
+    "region": "LATIN AMER. & CARIB",
+    "value": 5400
+  },
+  {
+    "key": "Ukraine",
+    "region": "C.W. OF IND. STATES",
+    "value": 5400
+  },
+  {
+    "key": "Gabon",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 5500
+  },
+  {
+    "key": "Samoa",
+    "region": "OCEANIA",
+    "value": 5600
+  },
+  {
+    "key": "Fiji",
+    "region": "OCEANIA",
+    "value": 5800
+  },
+  {
+    "key": "Reunion",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 5800
+  },
+  {
+    "key": "Turkmenistan",
+    "region": "C.W. OF IND. STATES",
+    "value": 5800
+  },
+  {
+    "key": "Algeria",
+    "region": "NORTHERN AFRICA",
+    "value": 6000
+  },
+  {
+    "key": "Dominican Republic",
+    "region": "LATIN AMER. & CARIB",
+    "value": 6000
+  },
+  {
+    "key": "Belarus",
+    "region": "C.W. OF IND. STATES",
+    "value": 6100
+  },
+  {
+    "key": "Bosnia & Herzegovina",
+    "region": "EASTERN EUROPE",
+    "value": 6100
+  },
+  {
+    "key": "Colombia",
+    "region": "LATIN AMER. & CARIB",
+    "value": 6300
+  },
+  {
+    "key": "Kazakhstan",
+    "region": "C.W. OF IND. STATES",
+    "value": 6300
+  },
+  {
+    "key": "Panama",
+    "region": "LATIN AMER. & CARIB",
+    "value": 6300
+  },
+  {
+    "key": "Libya",
+    "region": "NORTHERN AFRICA",
+    "value": 6400
+  },
+  {
+    "key": "Macedonia",
+    "region": "EASTERN EUROPE",
+    "value": 6700
+  },
+  {
+    "key": "Turkey",
+    "region": "NEAR EAST",
+    "value": 6700
+  },
+  {
+    "key": "St Pierre & Miquelon",
+    "region": "NORTHERN AMERICA",
+    "value": 6900
+  },
+  {
+    "key": "Tunisia",
+    "region": "NORTHERN AFRICA",
+    "value": 6900
+  },
+  {
+    "key": "Iran",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 7000
+  },
+  {
+    "key": "Romania",
+    "region": "EASTERN EUROPE",
+    "value": 7000
+  },
+  {
+    "key": "Namibia",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 7200
+  },
+  {
+    "key": "Thailand",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 7400
+  },
+  {
+    "key": "Brazil",
+    "region": "LATIN AMER. & CARIB",
+    "value": 7600
+  },
+  {
+    "key": "Bulgaria",
+    "region": "EASTERN EUROPE",
+    "value": 7600
+  },
+  {
+    "key": "Seychelles",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 7800
+  },
+  {
+    "key": "American Samoa",
+    "region": "OCEANIA",
+    "value": 8000
+  },
+  {
+    "key": "Guadeloupe",
+    "region": "LATIN AMER. & CARIB",
+    "value": 8000
+  },
+  {
+    "key": "French Guiana",
+    "region": "LATIN AMER. & CARIB",
+    "value": 8300
+  },
+  {
+    "key": "Anguilla",
+    "region": "LATIN AMER. & CARIB",
+    "value": 8600
+  },
+  {
+    "key": "Saint Kitts & Nevis",
+    "region": "LATIN AMER. & CARIB",
+    "value": 8800
+  },
+  {
+    "key": "Russia",
+    "region": "C.W. OF IND. STATES",
+    "value": 8900
+  },
+  {
+    "key": "Botswana",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 9000
+  },
+  {
+    "key": "Malaysia",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 9000
+  },
+  {
+    "key": "Mexico",
+    "region": "LATIN AMER. & CARIB",
+    "value": 9000
+  },
+  {
+    "key": "Palau",
+    "region": "OCEANIA",
+    "value": 9000
+  },
+  {
+    "key": "Costa Rica",
+    "region": "LATIN AMER. & CARIB",
+    "value": 9100
+  },
+  {
+    "key": "Trinidad & Tobago",
+    "region": "LATIN AMER. & CARIB",
+    "value": 9500
+  },
+  {
+    "key": "Turks & Caicos Is",
+    "region": "LATIN AMER. & CARIB",
+    "value": 9600
+  },
+  {
+    "key": "Chile",
+    "region": "LATIN AMER. & CARIB",
+    "value": 9900
+  },
+  {
+    "key": "Latvia",
+    "region": "BALTICS",
+    "value": 10200
+  },
+  {
+    "key": "Croatia",
+    "region": "EASTERN EUROPE",
+    "value": 10600
+  },
+  {
+    "key": "South Africa",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 10700
+  },
+  {
+    "key": "Antigua & Barbuda",
+    "region": "LATIN AMER. & CARIB",
+    "value": 11000
+  },
+  {
+    "key": "Poland",
+    "region": "EASTERN EUROPE",
+    "value": 11100
+  },
+  {
+    "key": "Argentina",
+    "region": "LATIN AMER. & CARIB",
+    "value": 11200
+  },
+  {
+    "key": "Lithuania",
+    "region": "BALTICS",
+    "value": 11400
+  },
+  {
+    "key": "Mauritius",
+    "region": "SUB-SAHARAN AFRICA",
+    "value": 11400
+  },
+  {
+    "key": "Netherlands Antilles",
+    "region": "LATIN AMER. & CARIB",
+    "value": 11400
+  },
+  {
+    "key": "Saudi Arabia",
+    "region": "NEAR EAST",
+    "value": 11800
+  },
+  {
+    "key": "Estonia",
+    "region": "BALTICS",
+    "value": 12300
+  },
+  {
+    "key": "N. Mariana Islands",
+    "region": "OCEANIA",
+    "value": 12500
+  },
+  {
+    "key": "Uruguay",
+    "region": "LATIN AMER. & CARIB",
+    "value": 12800
+  },
+  {
+    "key": "Oman",
+    "region": "NEAR EAST",
+    "value": 13100
+  },
+  {
+    "key": "Slovakia",
+    "region": "EASTERN EUROPE",
+    "value": 13300
+  },
+  {
+    "key": "Hungary",
+    "region": "EASTERN EUROPE",
+    "value": 13900
+  },
+  {
+    "key": "Martinique",
+    "region": "LATIN AMER. & CARIB",
+    "value": 14400
+  },
+  {
+    "key": "New Caledonia",
+    "region": "OCEANIA",
+    "value": 15000
+  },
+  {
+    "key": "Barbados",
+    "region": "LATIN AMER. & CARIB",
+    "value": 15700
+  },
+  {
+    "key": "Czech Republic",
+    "region": "EASTERN EUROPE",
+    "value": 15700
+  },
+  {
+    "key": "British Virgin Is.",
+    "region": "LATIN AMER. & CARIB",
+    "value": 16000
+  },
+  {
+    "key": "Bahamas, The",
+    "region": "LATIN AMER. & CARIB",
+    "value": 16700
+  },
+  {
+    "key": "Puerto Rico",
+    "region": "LATIN AMER. & CARIB",
+    "value": 16800
+  },
+  {
+    "key": "Bahrain",
+    "region": "NEAR EAST",
+    "value": 16900
+  },
+  {
+    "key": "Virgin Islands",
+    "region": "LATIN AMER. & CARIB",
+    "value": 17200
+  },
+  {
+    "key": "French Polynesia",
+    "region": "OCEANIA",
+    "value": 17500
+  },
+  {
+    "key": "Gibraltar",
+    "region": "WESTERN EUROPE",
+    "value": 17500
+  },
+  {
+    "key": "Malta",
+    "region": "WESTERN EUROPE",
+    "value": 17700
+  },
+  {
+    "key": "Korea, South",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 17800
+  },
+  {
+    "key": "Portugal",
+    "region": "WESTERN EUROPE",
+    "value": 18000
+  },
+  {
+    "key": "Brunei",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 18600
+  },
+  {
+    "key": "Andorra",
+    "region": "WESTERN EUROPE",
+    "value": 19000
+  },
+  {
+    "key": "Kuwait",
+    "region": "NEAR EAST",
+    "value": 19000
+  },
+  {
+    "key": "Slovenia",
+    "region": "EASTERN EUROPE",
+    "value": 19000
+  },
+  {
+    "key": "Cyprus",
+    "region": "NEAR EAST",
+    "value": 19200
+  },
+  {
+    "key": "Macau",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 19400
+  },
+  {
+    "key": "Israel",
+    "region": "NEAR EAST",
+    "value": 19800
+  },
+  {
+    "key": "Greece",
+    "region": "WESTERN EUROPE",
+    "value": 20000
+  },
+  {
+    "key": "Greenland",
+    "region": "NORTHERN AMERICA",
+    "value": 20000
+  },
+  {
+    "key": "Guernsey",
+    "region": "WESTERN EUROPE",
+    "value": 20000
+  },
+  {
+    "key": "Guam",
+    "region": "OCEANIA",
+    "value": 21000
+  },
+  {
+    "key": "Isle of Man",
+    "region": "WESTERN EUROPE",
+    "value": 21000
+  },
+  {
+    "key": "Qatar",
+    "region": "NEAR EAST",
+    "value": 21500
+  },
+  {
+    "key": "New Zealand",
+    "region": "OCEANIA",
+    "value": 21600
+  },
+  {
+    "key": "Faroe Islands",
+    "region": "WESTERN EUROPE",
+    "value": 22000
+  },
+  {
+    "key": "Spain",
+    "region": "WESTERN EUROPE",
+    "value": 22000
+  },
+  {
+    "key": "United Arab Emirates",
+    "region": "NEAR EAST",
+    "value": 23200
+  },
+  {
+    "key": "Taiwan",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 23400
+  },
+  {
+    "key": "Singapore",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 23700
+  },
+  {
+    "key": "Jersey",
+    "region": "WESTERN EUROPE",
+    "value": 24800
+  },
+  {
+    "key": "Liechtenstein",
+    "region": "WESTERN EUROPE",
+    "value": 25000
+  },
+  {
+    "key": "Italy",
+    "region": "WESTERN EUROPE",
+    "value": 26700
+  },
+  {
+    "key": "Sweden",
+    "region": "WESTERN EUROPE",
+    "value": 26800
+  },
+  {
+    "key": "Monaco",
+    "region": "WESTERN EUROPE",
+    "value": 27000
+  },
+  {
+    "key": "Finland",
+    "region": "WESTERN EUROPE",
+    "value": 27400
+  },
+  {
+    "key": "France",
+    "region": "WESTERN EUROPE",
+    "value": 27600
+  },
+  {
+    "key": "Germany",
+    "region": "WESTERN EUROPE",
+    "value": 27600
+  },
+  {
+    "key": "United Kingdom",
+    "region": "WESTERN EUROPE",
+    "value": 27700
+  },
+  {
+    "key": "Aruba",
+    "region": "LATIN AMER. & CARIB",
+    "value": 28000
+  },
+  {
+    "key": "Japan",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 28200
+  },
+  {
+    "key": "Netherlands",
+    "region": "WESTERN EUROPE",
+    "value": 28600
+  },
+  {
+    "key": "Hong Kong",
+    "region": "ASIA (EX. NEAR EAST)",
+    "value": 28800
+  },
+  {
+    "key": "Australia",
+    "region": "OCEANIA",
+    "value": 29000
+  },
+  {
+    "key": "Belgium",
+    "region": "WESTERN EUROPE",
+    "value": 29100
+  },
+  {
+    "key": "Ireland",
+    "region": "WESTERN EUROPE",
+    "value": 29600
+  },
+  {
+    "key": "Canada",
+    "region": "NORTHERN AMERICA",
+    "value": 29800
+  },
+  {
+    "key": "Austria",
+    "region": "WESTERN EUROPE",
+    "value": 30000
+  },
+  {
+    "key": "Iceland",
+    "region": "WESTERN EUROPE",
+    "value": 30900
+  },
+  {
+    "key": "Denmark",
+    "region": "WESTERN EUROPE",
+    "value": 31100
+  },
+  {
+    "key": "Switzerland",
+    "region": "WESTERN EUROPE",
+    "value": 32700
+  },
+  {
+    "key": "San Marino",
+    "region": "WESTERN EUROPE",
+    "value": 34600
+  },
+  {
+    "key": "Cayman Islands",
+    "region": "LATIN AMER. & CARIB",
+    "value": 35000
+  },
+  {
+    "key": "Bermuda",
+    "region": "NORTHERN AMERICA",
+    "value": 36000
+  },
+  {
+    "key": "Norway",
+    "region": "WESTERN EUROPE",
+    "value": 37800
+  },
+  {
+    "key": "United States",
+    "region": "NORTHERN AMERICA",
+    "value": 37800
+  },
+  {
+    "key": "Luxembourg",
+    "region": "WESTERN EUROPE",
+    "value": 55100
+  }
+]
