@@ -1,0 +1,99 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Adjacency Matrix</title>
+  <meta charset="utf-8" />
+</head>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/queue.v1.min.js" type="text/javascript"></script>
+<style>
+.tick line {
+  shape-rendering: crispEdges;
+  stroke: #000;
+}
+
+line.minor  {
+  stroke: #777;
+  stroke-dasharray: 2,2;
+}
+
+path.domain {
+  fill: none;
+  stroke: black;
+}
+
+</style>
+<body onload="adjacency()">
+<h1 align="center">Adjcency matrix visualization on musicians network data</h1>
+<div id="vizcontainer">
+<svg style="width:1250px;height:1250px;border:1px darkblue solid;" />
+</div>
+  <footer>
+<script>
+  
+  function adjacency() {
+
+    queue()
+    .defer(d3.csv, "/A3/Data/musicians.csv")
+    .await(function(error, file3) { createAdjacencyMatrix(file3); });
+    
+    function createAdjacencyMatrix(edges) {
+      var edgeHash = {};
+      for (x in edges) {
+        var id = edges[x].x + "-" + edges[x].y;
+        edgeHash[id] = edges[x];
+        id = edges[x].y + "-" + edges[x].x;
+        edgeHash[id] = edges[x];
+      }
+      matrix = [];
+      //create all possible edges
+      for (a in d3.range(1, 195, 1)) {
+          var a= parseInt(a)+1
+        for (b in d3.range(1, 195, 1)) {
+          var b= parseInt(b)+1
+          var grid = {id: a + "-" + b, x: b, y: a, weight: 0};
+          if (edgeHash[grid.id]) {
+            grid .weight = edgeHash[grid.id].weight;
+          }
+          matrix.push(grid);
+        }
+      }
+      
+      d3.select("svg")
+      .append("g")
+      .attr("transform", "translate(50,50)")
+      .attr("id", "adjacencyG")
+      .selectAll("rect")
+      .data(matrix)
+      .enter()
+      .append("rect")
+      .attr("width", 6)
+      .attr("height", 6)
+      .attr("x", function (d) {return d.x * 6})
+      .attr("y", function (d) {return d.y * 6})
+      .style("stroke", "black")
+      .style("stroke-width", "1px")
+      .style("fill", "green")
+      .style("fill-opacity", function (d) {return d.weight * .9})
+      .on("mouseover", gridOver)
+      
+      var scaleSize = 194 * 6
+      var nameScale = d3.scale.ordinal().domain(edges.map(function (el) {return el.x})).rangePoints([0,scaleSize],2);
+      
+      xAxis = d3.svg.axis().scale(nameScale).orient("top").tickSize(6);
+      yAxis = d3.svg.axis().scale(nameScale).orient("left").tickSize(6);
+      d3.select("#adjacencyG").append("g").call(xAxis).selectAll("text").style("font-size","9px").attr("transform", "translate(-10,-10) rotate(90)");
+      d3.select("#adjacencyG").append("g").call(yAxis)
+      .selectAll("text").style("font-size","9px");
+      
+      
+      function gridOver(d,i) {
+        d3.selectAll("rect").style("stroke-width", function (p) {return p.x == d.x || p.y == d.y ? "2px" : "1px"})
+      }
+
+    }
+    
+  }
+  </script>
+  </footer>
+</body>
+</html>

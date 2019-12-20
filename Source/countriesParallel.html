@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<title>Parallel Cooordinates</title>
+<head>
+    <meta charset="utf-8">
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src='https://syntagmatic.github.io/parallel-coordinates/d3.parcoords.js'></script>
+    <style>
+	.parcoords > canvas {
+	  font: 14px sans-serif;
+	  position: absolute;
+	}
+	.parcoords > canvas {
+	  pointer-events: none;
+	}
+	.parcoords text.label {
+	  cursor: default;
+	}
+	.parcoords rect.background:hover {
+	  fill: rgba(120,120,120,0.2);
+	}
+	.parcoords canvas {
+	  opacity: 1;
+	  transition: opacity 0.3s;
+	  -moz-transition: opacity 0.3s;
+	  -webkit-transition: opacity 0.3s;
+	  -o-transition: opacity 0.3s;
+	}
+	.parcoords canvas.faded {
+	  opacity: 0.25;
+	}
+	.parcoords {
+	  -webkit-touch-callout: none;
+	  -webkit-user-select: none;
+	  -khtml-user-select: none;
+	  -moz-user-select: none;
+	  -ms-user-select: none;
+	  user-select: none;
+	  background-color: white;
+	}
+</style>
+</head>
+<body>
+    <h1 align="center">Parallel Cooordinate Plot on multivariate Countries DataSet</h1>
+    <div id="canvas" class="parcoords" style="width:1250px; height:600px"></div>
+    <script>
+	function categorize(name){
+		console.log(typeof name);
+		var newArray = [...new Set(data)]
+		console.log(newArray)
+	    
+	}
+      d3.csv("/A3/Data/countriesofworld.csv", function(d){
+          // strip out relevant fields
+          var point = {};
+	  //categorize(d.car_name);
+	  point.Country = d.Country;
+	  //console.log(typeof d.car_name)
+	  point.Population = d.Population;
+          point.Area_sq_mi = d.Area_sq_mi;
+          point.Pop_Density_sq_mi = d.Pop_Density_sq_mi;
+          point.GDP = d.GDP;
+          point.Literacy = d.Literacy;
+          point.Crops = d.Crops;
+          point.Agriculture = d.Agriculture;
+          point.Coastline=d.Coastline;
+          point.Climate=d.Climate
+          point.Industry = d.Industry;
+          point.Net_migration=d.Net_migration;
+          point.Birthrate=d.Birthrate;
+          point.Deathrate=d.Deathrate;
+
+
+          
+          return point;
+      }, function(error, data) {
+
+  
+      var data_extent = d3.extent(data, function(d) {
+          return d.Population;
+        });
+
+  
+      var black_to_red = d3.scale.linear()
+         .domain(data_extent)
+  	.range(["black","red"])
+  	.interpolate(d3.interpolateLab);
+
+      // initialize the parallel coord element
+      var pc = d3.parcoords()("#canvas");
+
+      // create chart
+      pc.data(data)
+        .color(function(d) { return black_to_red(d.Population); })
+        .alpha(0.3)
+	.hideAxis(["Country"])
+        .margin({top: 50, right: 20, bottom: 30, left: 50})
+        .render()
+        .reorderable()
+        .brushMode("1D-axes")
+        .shadows();
+      });
+    </script>
+</body>
+</html>
